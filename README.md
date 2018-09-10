@@ -1,0 +1,3 @@
+# lampotilamittariprojekti2018
+Lämpötilamittari pikkumökkiin
+
